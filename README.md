@@ -28,7 +28,6 @@ Soy desarrollador de software en **[Software DSI](https://www.dsinet.com.mx/inic
 
 - 🧩 **Módulos web:** frontend con **Ember.js**, backend con **Grails / Groovy**.
 - 📊 **Reportes y gráficas:** consultas en **PostgreSQL**, **MySQL** y **SQL**, llevadas a tableros con **Apache ECharts**.
-- 🎓 **Formación:** Ingeniería en Desarrollo y Gestión de Software (en curso) · TSU en TI, **UTSEM**.
 
 ---
 
