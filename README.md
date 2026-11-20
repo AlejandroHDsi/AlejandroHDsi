@@ -1,41 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=130&section=header&text=Alejandro%20Hern%C3%A1ndez&fontSize=30&fontColor=F8FAFC&fontAlignY=38&desc=Desarrollador%20Full-Stack%20%7C%20M%C3%B3dulos%20Web%2C%20Reportes%20y%20Gr%C3%A1ficas&descAlignY=60&descColor=94A3B8" alt="Banner de Alejandro Hernández" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=150&section=header&text=Alejandro%20Hern%C3%A1ndez&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Banner de Alejandro Hernández" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack+%40+DSI+Software;Construyendo+m%C3%B3dulos+web+y+reportes;Visualizaci%C3%B3n+de+datos+con+Apache+ECharts;Fedora+Linux+%26+Windows+Workflow" alt="Typing SVG" />
+</a>
 
 </div>
 
-## Acerca de este perfil
+---
 
-Perfil orientado a mi actividad profesional como **Desarrollador Full-Stack** en **DSI Software**, enfocado en el desarrollo de módulos web, generación de reportes y visualización de datos mediante gráficas interactivas.
+### 👨‍💻 ¿Qué hago por aquí?
 
-* **Módulos y aplicaciones web:** Construcción y mantenimiento de interfaces y lógica de negocio de extremo a extremo.
-* **Reportes y visualización:** Diseño de consultas, reportes estructurados y gráficas analíticas claras para la toma de decisiones.
-* **Entorno de trabajo:** Desarrollo diario en **Fedora Linux** y **Windows**, priorizando orden, rendimiento y mantenibilidad.
+Hola 👋 Soy **Alejandro**, desarrollador Full-Stack en **DSI Software**. Mi día a día gira en torno a transformar datos y lógica de negocio en interfaces claras y funcionales:
+
+* 🧩 **Módulos Web Full-Stack:** Desarrollo de funcionalidades completas conectando **Ember.js** con **Grails / Groovy**.
+* 📊 **Reportes y Visualización:** Diseño de consultas SQL y gráficas interactivas con **Apache ECharts** para interpretar datos de forma rápida.
+* ⚡ **Flujo de Trabajo:** Me muevo entre **Fedora Linux** y **Windows**, cuidando la velocidad y limpieza en cada entrega.
 
 ---
 
-## Stack tecnológico
+### 🛠️ Mi Stack & Herramientas
 
-**Frontend y Visualización**
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white)
-![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+<div align="center">
 
-**Backend y Bases de Datos**
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
-![Grails](https://img.shields.io/badge/Grails-F3A12C?style=flat-square&logo=grails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend, Backend & Datos**
+<br><br>
+<img src="https://skillicons.dev/icons?i=ember,groovy,postgres,mysql&theme=dark" alt="Stack principal" />
+<br>
+![Grails](https://img.shields.io/badge/Grails-F3A12C?style=for-the-badge&logo=grails&logoColor=white)
+![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Entorno e IDEs**
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+<br>
+
+**Entorno & IDEs**
+<br><br>
+<img src="https://skillicons.dev/icons?i=fedora,windows,idea,vscode&theme=dark" alt="Entorno e IDEs" />
+<br>
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Código limpio, consultas precisas y visualizaciones útiles.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=90&section=footer" alt="Footer" />
+
 </div>
