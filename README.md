@@ -48,25 +48,5 @@ Soy desarrollador de software en **Software DSI**, donde construyo módulos web 
 
 ---
 
-## 📈 GitHub en números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
-
-</div>
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/527224325525)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrohedez04@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:alexhh1212@hotmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" alt="Footer" />
 
 </div>
