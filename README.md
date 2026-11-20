@@ -1,43 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,50:2563EB,100:4F46E5&height=120&section=header&text=Alejandro%20Hern%C3%A1ndez&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20M%C3%B3dulos%20Web%2C%20Reportes%20y%20Gr%C3%A1ficas&descAlignY=72&descColor=E0F2FE" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Alejandro%20Hern%C3%A1ndez&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollador%20de%20Software%20%C2%B7%20Software%20DSI&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Ember.js+%2B+Grails+%2F+Groovy;Reportes+y+tableros+con+Apache+ECharts;SQL+que+se+convierte+en+decisiones" alt="Typing SVG" />
+</a>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&lines=Ember.js+%2B+Grails+%2F+Groovy;Reportes+y+Gr%C3%A1ficas+con+Apache+ECharts;PostgreSQL+%2C+MySQL+%26+SQL+en+DataGrip;Fedora+Linux+%26+Windows" alt="Typing SVG" />
-</a>
+![Empresa](https://img.shields.io/badge/💼_Software_DSI-1D4ED8?style=for-the-badge)
+![Rol](https://img.shields.io/badge/🧑‍💻_Full_Stack_Developer-0F172A?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/📍_Tejupilco,_México-0891B2?style=for-the-badge)
 
 </div>
 
 ---
 
-### 👨‍💻 Enfoque actual
+## 👋 Sobre mí
 
-* 🧩 **Módulos web:** Desarrollo full-stack con **Ember.js** en el frontend y **Grails / Groovy** en el backend.
-* 📊 **Reportes y gráficas:** Consultas en **PostgreSQL**, **MySQL** y **SQL** llevadas a tableros y gráficas con **Apache ECharts**.
-* 🖥️ **Entorno:** Trabajo en **Fedora Linux** y **Windows** usando **IntelliJ IDEA**, **VS Code** y **DataGrip**.
+Soy desarrollador de software en **Software DSI**, donde construyo módulos web y reportes que convierten datos en información útil. Fuera de la empresa también tomo proyectos freelance como **DevNick**.
+
+- 🧩 **Módulos web:** frontend con **Ember.js**, backend con **Grails / Groovy**.
+- 📊 **Reportes y gráficas:** consultas en **PostgreSQL**, **MySQL** y **SQL**, llevadas a tableros con **Apache ECharts**.
+- 🎓 **Formación:** Ingeniería en Desarrollo y Gestión de Software (en curso) · TSU en TI, **UTSEM**.
 
 ---
 
-### 🛠️ Stack
+## 🛠️ Stack
 
 <div align="center">
 
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white)
-![Grails](https://img.shields.io/badge/Grails-F3A12C?style=flat-square&logo=grails&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
-![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend & Backend**
 
-<br>
+<img src="https://skillicons.dev/icons?i=ember,groovy,js,html,css&theme=dark" alt="Frontend y backend" />
 
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+**Datos & Gráficas**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Bases de datos" />
+&nbsp;
+![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
+
+**Entorno**
+
+<img src="https://skillicons.dev/icons?i=fedora,windows,idea,vscode,datagrip&theme=dark" alt="Entorno" />
+
+</div>
+
+---
+
+## 📈 GitHub en números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/527224325525)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrohedez04@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:alexhh1212@hotmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" alt="Footer" />
 
 </div>
